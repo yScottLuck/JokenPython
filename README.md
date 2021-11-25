@@ -2,7 +2,8 @@
 Pequeno joguinho pra você rodar no seu terminal
 # JokenPython
 
-![foto](https://github.com/yScottLuck/JokenPython/blob/main/Screenshot_2021-11-24-20-56-08-1.png)
+
+![foto](https://github.com/yScottLuck/JokenPython/blob/main/Screenshot_2021-11-25-07-21-40-1.png)
 
 Olá!
 
